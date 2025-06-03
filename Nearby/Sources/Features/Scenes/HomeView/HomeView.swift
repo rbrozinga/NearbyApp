@@ -134,6 +134,7 @@ class HomeView: UIView {
             placesTableView.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 24),
             placesTableView.trailingAnchor.constraint(equalTo: containerView.trailingAnchor, constant: -24),
             placesTableView.bottomAnchor.constraint(equalTo: containerView.bottomAnchor)
+            
         ])
     }
 }
